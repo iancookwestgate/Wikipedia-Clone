@@ -30,3 +30,34 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+p.featured {
+  padding: 10px;
+}
+img.featured {
+  padding: 10px;
+}
+
+.portal1 {
+  margin: 2em 0.6em 0 0.7em;
+  padding: 0.25em 0;
+  direction: ltr;
+  background-position: top left;
+  background-repeat: no-repeat;
+}
+
+.portal2 {
+  margin: 0 0.6em 0 0.7em;
+  padding: 0.25em 0;
+  direction: ltr;
+  background-position: top left;
+  background-repeat: no-repeat;
+}
+
+.portal3 {
+  margin: 0 0.6em 0 0.7em;
+  padding: 0.25em 0;
+  direction: ltr;
+  background-position: top left;
+  background-repeat: no-repeat;
+}
