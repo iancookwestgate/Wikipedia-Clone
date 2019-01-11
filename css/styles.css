@@ -33,6 +33,10 @@
 
 p.featured {
   padding: 10px;
+  background-color: #d7f9d6;
+}
+ul.featured {
+  background-color: #d7f9d6;
 }
 img.featured {
   padding: 10px;
